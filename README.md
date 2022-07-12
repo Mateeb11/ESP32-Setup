@@ -16,6 +16,7 @@
 
 # Testing ESP32
 1-	Plug ESP32 to your computer
+
 2-	Select your board in Tools>Board\
 ![](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2016/12/windows-select-board.png?w=614&quality=100&strip=all&ssl=1)
 
