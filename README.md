@@ -30,3 +30,6 @@
 6-	If it says, “Done Uploading”, that’s means everything is okay\
 ![](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2016/12/windows-arduino-ide-done-uploading.png?w=671&quality=100&strip=all&ssl=1)
 
+# Note 
+This for a task in my course, credits to (https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
+
