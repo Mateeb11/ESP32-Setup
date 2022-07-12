@@ -1,9 +1,9 @@
 # ESP32-Setup
-1-	Download Arduino IDE (https://www.arduino.cc/en/software)
-2-	Go to File>Preferences
-![ScreenShot](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2016/12/arduino-ide-open-preferences.png?w=196&quality=100&strip=all&ssl=1)
-3-	In “Additional Board Manager URLs” field, enter https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json , then click “OK”
-![](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2022/04/ESP32-URL-Arduino-IDE.png?w=828&quality=100&strip=all&ssl=1)
+1-	Download Arduino IDE (https://www.arduino.cc/en/software)\
+2-	Go to File>Preferences\
+![ScreenShot](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2016/12/arduino-ide-open-preferences.png?w=196&quality=100&strip=all&ssl=1)\
+3-	In “Additional Board Manager URLs” field, enter https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json , then click “OK”\
+![](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2022/04/ESP32-URL-Arduino-IDE.png?w=828&quality=100&strip=all&ssl=1)\
  
 
 
