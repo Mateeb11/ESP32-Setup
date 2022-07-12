@@ -1,5 +1,6 @@
 # ESP32-Setup
 1-	Download Arduino IDE (https://www.arduino.cc/en/software)
+
 2-	Go to File>Preferences\
 ![ScreenShot](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2016/12/arduino-ide-open-preferences.png?w=196&quality=100&strip=all&ssl=1)
 
